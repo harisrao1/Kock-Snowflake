@@ -1,0 +1,22 @@
+body {
+	background-color: #fafafa
+}
+
+button {
+	
+	background-color: #000000;
+	border: 2px solid darken(#255555);
+	color: #fff;
+	padding: .75em 1em;
+	
+}
+
+canvas {
+	display: block;
+}
+
+.controls {
+	position: absolute;
+	left: 1em;
+	top: 1em;
+}
